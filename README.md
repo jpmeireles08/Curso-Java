@@ -50,7 +50,7 @@ curso-java/
 
 ## 📚 Sobre o Curso
 
-Este material foi produzido durante o curso **Java Completo** da Udemy, ministrado por [Nome do Instrutor]. Mais detalhes do curso podem ser acessados aqui:
+Este material foi produzido durante o curso **Java Completo** da Udemy, ministrado por [Nelio Alves]. Mais detalhes do curso podem ser acessados aqui:
 
 [https://www.udemy.com/share/1013hw3@k6Rr996rXWSAbP1yuL9fcS58XP7I42PyHyUoLMi3ZA3YaBr3RbO18vqgABUhQGG4XA==/](https://www.udemy.com/share/1013hw3@k6Rr996rXWSAbP1yuL9fcS58XP7I42PyHyUoLMi3ZA3YaBr3RbO18vqgABUhQGG4XA==/)
 
