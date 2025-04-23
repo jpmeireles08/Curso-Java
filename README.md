@@ -39,7 +39,7 @@ curso-java/projetos
 ├── composicao/
 ├── composicao_2/
 ├── lista_linear/
-├── vetores/
+├── aula_vetores/
 ├── matrizes/
 ├── topico_data_hora/
 ├── tipos_enum/
