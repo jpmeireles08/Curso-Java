@@ -29,7 +29,7 @@ Este repositório reúne todo o material de exercícios e projetos desenvolvidos
 ## 📁 Estrutura de Pastas
 
 ```text
-curso-java/
+curso-java/projetos
 ├── exercicios_sequencias/
 ├── exercicios_condicionais/
 ├── exercicios_while/
