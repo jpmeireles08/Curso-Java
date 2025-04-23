@@ -24,7 +24,7 @@ Este repositório reúne todo o material de exercícios e projetos desenvolvidos
    cd Curso-Java
    ```
 
-3. Importe no Eclipse ou abra em sua IDE preferida.
+3. Importe ou abra em sua IDE preferida.
 
 ## 📁 Estrutura de Pastas
 
