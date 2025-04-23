@@ -15,13 +15,13 @@ Este repositório reúne todo o material de exercícios e projetos desenvolvidos
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/curso-java.git
+   git clone https://github.com/jpmeireles08/Curso-Java.git
    ```
 
 2. Navegue até a pasta do projeto:
 
    ```bash
-   cd curso-java
+   cd Curso-Java
    ```
 
 3. Importe no Eclipse ou abra em sua IDE preferida.
